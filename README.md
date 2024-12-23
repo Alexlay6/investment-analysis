@@ -15,7 +15,7 @@ A comprehensive financial analysis system built with Streamlit, providing real-t
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/investment-analysis.git
+git clone https://github.com/Alexlay6/investment-analysis
 cd investment-analysis
 ```
 
